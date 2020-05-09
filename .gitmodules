@@ -1,0 +1,4 @@
+[submodule "ssss"]
+	path = ssss
+	# a
+	url = https://github.com/alexis-d/ssss.git
